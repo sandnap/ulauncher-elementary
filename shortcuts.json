@@ -1,0 +1,122 @@
+{
+    "761a5bf7-8bf7-4c19-8942-079b638b0207": {
+        "id": "761a5bf7-8bf7-4c19-8942-079b638b0207",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1579880147.2759428
+    },
+    "b148c968-8f6d-4e9a-87b2-c1763a9ecac1": {
+        "id": "b148c968-8f6d-4e9a-87b2-c1763a9ecac1",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1579880147.2760372
+    },
+    "58322c9a-010e-450d-9454-c566670dc6c3": {
+        "id": "58322c9a-010e-450d-9454-c566670dc6c3",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1579880147.2761
+    },
+    "e392fb24-f5cb-45d2-9890-ceb2392f0383": {
+        "id": "e392fb24-f5cb-45d2-9890-ceb2392f0383",
+        "name": "Capture Area",
+        "keyword": "sc",
+        "cmd": "io.elementary.screenshot-tool -r",
+        "icon": "~/.config/ulauncher/icons/capture.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580400691.5126042
+    },
+    "fda8632b-746a-485c-963d-b6ecc6e553e5": {
+        "id": "fda8632b-746a-485c-963d-b6ecc6e553e5",
+        "name": "Mute",
+        "keyword": "mute",
+        "cmd": "xdotool key XF86AudioMute",
+        "icon": "~/.config/ulauncher/icons/mute.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580401098.6116867
+    },
+    "05b54bf4-103f-41a1-9288-ecf3c79194f0": {
+        "id": "05b54bf4-103f-41a1-9288-ecf3c79194f0",
+        "name": "Play/Pause",
+        "keyword": "pause",
+        "cmd": "xdotool key XF86AudioPlay",
+        "icon": "~/.config/ulauncher/icons/play_pause.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580402689.8386168
+    },
+    "fe1611fd-4ff0-43af-a66c-02782ead8b68": {
+        "id": "fe1611fd-4ff0-43af-a66c-02782ead8b68",
+        "name": "Keyboard Shortcuts",
+        "keyword": "keys",
+        "cmd": "io.elementary.switchboard settings://input/keyboard/shortcuts",
+        "icon": "~/.config/ulauncher/icons/keyboard.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580404634.7824085
+    },
+    "de8d498f-4a1a-4ec9-8646-3df45bb30ec2": {
+        "id": "de8d498f-4a1a-4ec9-8646-3df45bb30ec2",
+        "name": "Configure Desktop",
+        "keyword": "desk",
+        "cmd": "io.elementary.switchboard settings://desktop",
+        "icon": "~/.config/ulauncher/icons/desktop.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580405055.626904
+    },
+    "ad8bd335-fe94-44be-9187-cb40c9d650b4": {
+        "id": "ad8bd335-fe94-44be-9187-cb40c9d650b4",
+        "name": "Configure Displays",
+        "keyword": "display",
+        "cmd": "io.elementary.switchboard settings://display",
+        "icon": "~/.config/ulauncher/icons/displays.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580405140.6156464
+    },
+    "96487416-10ac-4805-9bde-6183cc689c1f": {
+        "id": "96487416-10ac-4805-9bde-6183cc689c1f",
+        "name": "Configure Sound",
+        "keyword": "sound",
+        "cmd": "io.elementary.switchboard settings://sound",
+        "icon": "~/.config/ulauncher/icons/sound.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580405298.2735057
+    },
+    "04904de5-d7c6-4f7a-a48b-abb343647f57": {
+        "id": "04904de5-d7c6-4f7a-a48b-abb343647f57",
+        "name": "Configure Applications",
+        "keyword": "applications",
+        "cmd": "io.elementary.switchboard settings://applications",
+        "icon": "~/.config/ulauncher/icons/applications.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580405466.0250566
+    },
+    "0097d959-0d64-471f-8d14-2ea1b4b08944": {
+        "id": "0097d959-0d64-471f-8d14-2ea1b4b08944",
+        "name": "Tweaks",
+        "keyword": "tweaks",
+        "cmd": "io.elementary.switchboard settings://Tweaks",
+        "icon": "~/.config/ulauncher/icons/tweaks.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1580405609.5456474
+    }
+}
