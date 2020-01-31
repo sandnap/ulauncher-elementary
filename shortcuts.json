@@ -29,6 +29,36 @@
         "run_without_argument": false,
         "added": 1579880147.2761
     },
+    "83ae7491-2faf-42ce-aae6-5738094056e7": {
+        "id": "83ae7491-2faf-42ce-aae6-5738094056e7",
+        "name": "YouTube",
+        "keyword": "yt",
+        "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": "~/.config/ulauncher/icons/youtube.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1579883753.1712012
+    },
+    "e64fc253-d8f5-44b7-9dba-cc9ab45e0f08": {
+        "id": "e64fc253-d8f5-44b7-9dba-cc9ab45e0f08",
+        "name": "Hacker News",
+        "keyword": "hn",
+        "cmd": "https://hn.algolia.com/?dateRange=all&page=0&prefix=false&sort=byDate&type=story&query=%s",
+        "icon": "~/.config/ulauncher/icons/hacker_news.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1580104531.5492551
+    },
+    "2c8e58b1-b8e2-41c2-bea2-125ccaf24f08": {
+        "id": "2c8e58b1-b8e2-41c2-bea2-125ccaf24f08",
+        "name": "Reddit Search",
+        "keyword": "red",
+        "cmd": "https://www.reddit.com/search/?q=%s&sort=new",
+        "icon": "~/.config/ulauncher/icons/reddit.jpg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1580105480.132782
+    },
     "e392fb24-f5cb-45d2-9890-ceb2392f0383": {
         "id": "e392fb24-f5cb-45d2-9890-ceb2392f0383",
         "name": "Capture Area",
